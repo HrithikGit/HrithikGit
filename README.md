@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for **Full time Software Engineer Opportunities**
 
-- 👨‍💻 All of my projects are available at [hrithik-manda.netlify.app/](hrithik-manda.netlify.app/)
+- 👨‍💻 Most of my projects are available at [hrithik-manda.netlify.app/](hrithik-manda.netlify.app/)
 
 - 📝 I regularly write articles on [my learnings](my learnings)
 
