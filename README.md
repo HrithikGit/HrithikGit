@@ -11,7 +11,7 @@
 
 - 👨‍💻 Most of my projects are available at [hrithik-manda.netlify.app/](hrithik-manda.netlify.app/)
 
-- 📝 I regularly write articles on [my learnings](my learnings)
+- 📝 I regularly write articles on my learnings
 
 - 💬 Ask me about **React, Javascript, Java**
 
