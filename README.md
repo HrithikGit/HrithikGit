@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithikgit&label=Profile%20views&color=0e75b6&style=flat" alt="hrithikgit" /> </p>
 
-- 🔭 I’m currently working on **building a House Management Application**
-
-- 🌱 I’m currently learning **C# and .Net**
+- 🔭 I’m currently working on **Learning NextJS and TailwindCSS**
 
 - 🤝 I’m looking for **Full time Software Engineer Opportunities**
 
-- 👨‍💻 Most of my projects are available at [hrithik-manda.netlify.app/](hrithik-manda.netlify.app/)
+- 👨‍💻 Here is my Portfolio [hrithik-manda.netlify.app/]()
 
 - 📝 I regularly write articles on my learnings
 
