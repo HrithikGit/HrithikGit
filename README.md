@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for **Full time Software Engineer Opportunities**
 
-- 👨‍💻 Here is my Portfolio [hrithik-manda.netlify.app/]()
+- 👨‍💻 Here is my Portfolio [hrithik-manda.netlify.app/](https://hrithik-manda.netlify.app/)
 
 - 📝 I regularly write articles on my learnings
 
