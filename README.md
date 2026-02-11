@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hrithik Manda</h1>
-<h3 align="center">A passionate Software Developer with love for problem solving and building scalable web applications</h3>
+<h3 align="center">A passionate Software Developer with love for problem solving and building scalable applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithikgit&label=Profile%20views&color=0e75b6&style=flat" alt="hrithikgit" /> </p>
 
 - 🔭 I’m currently working on **Learning NextJS and TailwindCSS**
-
-- 🤝 I’m looking for **Full time Software Engineer Opportunities**
 
 - 👨‍💻 Here is my Portfolio [hrithik-manda.netlify.app/](https://hrithik-manda.netlify.app/)
 
